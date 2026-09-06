@@ -1,0 +1,5 @@
+Python
+pygame
+pywin32
+
+pip install pygame pywin32
